@@ -8,13 +8,24 @@ h2 {
     text-align: center;
 }
 
-#lina {
+#logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 30%;
 }
 
 #iframe {
     text-align: center;
+}
+
+#btn-el {
+    text-align: center;
+}
+
+#funny-btn {
+    border:4px solid rgb(164, 164, 211);
+    padding: 40px;
+    border-radius: 20px;
+    background-color: white;
 }
